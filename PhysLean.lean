@@ -353,6 +353,7 @@ public import PhysLean.SpaceAndTime.Space.Derivatives.Laplacian
 public import PhysLean.SpaceAndTime.Space.DistConst
 public import PhysLean.SpaceAndTime.Space.DistOfFunction
 public import PhysLean.SpaceAndTime.Space.Integrals.Basic
+public import PhysLean.SpaceAndTime.Space.Integrals.IntegralsOnBall
 public import PhysLean.SpaceAndTime.Space.Integrals.NormPow
 public import PhysLean.SpaceAndTime.Space.Integrals.RadialAngularMeasure
 public import PhysLean.SpaceAndTime.Space.IsDistBounded
